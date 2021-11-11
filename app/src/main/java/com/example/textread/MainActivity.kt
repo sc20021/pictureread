@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
         tess = TessBaseAPI()
         tess.init(dataPath,lang)
 
-        processimage(BitmapFactory.decodeResource(resources,R.drawable.delete2))
+        processimage(BitmapFactory.decodeResource(resources,R.drawable.test2))
 
 
 
